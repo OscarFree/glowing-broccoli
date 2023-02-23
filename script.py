@@ -1,3 +1,6 @@
+# Given a positive integer n, what is the fewest number of operations required to reach 1. 
+# Allowed operations are divide by 2 (if the dividend is even), add 1, and subtract 1.
+
 def solution(n):
     # n has 309 digits which can be represented by a float64, how conspicuous...
     n = int(n)
