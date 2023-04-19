@@ -1,4 +1,5 @@
 def solution(s):
+    # Problem: sum from k=1 to s of floor(n * sqrt(2)), where s is a positive integer.
     # This problem was very interesting and difficult.
     
     # First, I noticed that the terms in the summation follow a fractal pattern.
